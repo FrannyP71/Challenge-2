@@ -65,13 +65,17 @@ a {
     margin-left: 25px;
 }
 
-.flexbox-container {display: flex;
+.flexbox-container {
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .flexbox-item {
     width:200px;
     margin:10px;
-    border: 3px solid #300fd1;
+    border: 3px solid white;
+    background-color: #8ec6e2;
 }
 
 .flexbox-item-1 {
