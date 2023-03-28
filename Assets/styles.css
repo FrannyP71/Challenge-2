@@ -79,11 +79,14 @@ a {
 }
 
 .flexbox-item-1 {
-    min-hieght: 100px;
+    min-hieght: 200px;
+    min-width: 200px;
 }
 
 .flexbox-item-2 {
     min-height: 100px;
+    flex-grow: 3;
+    flex-basis: 0;
 }
 
 .flexbox-item-3 {
@@ -100,6 +103,7 @@ a {
     
 
 .footer {
+    
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -107,5 +111,6 @@ a {
 }
 
 .footer h2 {
-    font-size: 20px;
+        font-size: 20px;
+        color:bisque
 }
