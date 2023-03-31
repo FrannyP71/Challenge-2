@@ -50,7 +50,7 @@ a {
     height: 300px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../assets/images/textures.jpg");
+    background-image: url("../Assets/images/textures.jpg");
     background-size: cover;
     background-position: center;
 }
