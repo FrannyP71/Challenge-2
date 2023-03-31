@@ -1,5 +1,5 @@
 # Challenge-2
-My portfolio,showing potential through work samples so my work can be reviewed to assess my candidacy for an open position.Here you will see my portfolio with links about me, my work, and contact info. You can review my HTML, CSS, and Javascript skills. I used the bootcamp lesson plan and tuturing sessions as well as youtube tutorials to make this site come to life.
+My portfolio,showing potential through work samples so my work can be reviewed to assess my candidacy for an open position. Here you will see my portfolio with links about me, my work, and contact info. You can review my HTML, CSS, and Javascript skills. I used the bootcamp lesson plan and tuturing sessions as well as youtube tutorials to make this site come to life.
 
 ![challenge-2](https://user-images.githubusercontent.com/127154382/228955408-16ae4d7d-bc4a-4b85-8bff-c8d60ff81530.jpg)
 
